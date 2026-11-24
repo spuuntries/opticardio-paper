@@ -1,0 +1,24 @@
+Yth. Tim DFK4,
+
+Terima kasih telah mengikuti Clinic GEMASTIK ITS 2026 Divisi Penambangan Data.
+
+Hasil evaluasi tim dapat diakses melalui tautan berikut:
+
+Detail Review Cross Evaluation I
+
+Feedback Evaluator
+1) Banyak pernyataan di Latar Belakang yang belum didukung oleh literatur terkait.
+
+2) Urgensi penelitian secar khusus belum terlihat. Harus ada perbandingan dengan state-of-the-art (metode terbaru) untuk memunculkan research gap.
+
+3) Pada beberapa bagian, bahasanya terindikasi AI atau setidaknya Google Translate.
+
+4) Banyak penggunaan kata ganti orang pertama --> tidak boleh. Jangan gunakan "penelitian kami" tapi gunakan "penelitian ini", dsb.
+
+5) Sub bab "Hasil Kualitatif" kurang jelas. Mungkin Gambar 5 bisa diperbesar (span 2 kolom) dan bagian yang harus diamati pembaca diberi bounding box yang jelas terlihat.
+
+6) Penelitian sudah selesai, tapi masih kurang perbandingan / pembahasan dengan state-of-the-art.
+
+Kami berharap hasil evaluasi ini dapat menjadi bahan refleksi dan penyempurnaan karya sebelum tahap berikutnya. Mohon untuk tidak hanya berfokus pada skor yang diperoleh, tetapi juga memperhatikan setiap masukan dari evaluator agar kualitas proposal dapat semakin meningkat.
+
+Apabila terdapat komentar yang kurang jelas atau membutuhkan penjelasan lebih lanjut, silakan menyampaikannya melalui grup resmi Divisi Penambangan Data atau menghubungi panitia.

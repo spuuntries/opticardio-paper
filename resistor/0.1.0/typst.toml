@@ -1,0 +1,12 @@
+[package]
+name = "resistor"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Jurnal RESISTOR INSTIKI"]
+license = "MIT"
+description = "Typst template for Jurnal RESISTOR (Institut Bisnis dan Teknologi Indonesia) 2026."
+compiler = "0.13.0"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
